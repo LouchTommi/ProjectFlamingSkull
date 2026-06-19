@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3459559402094937276
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4073626136065558934}
+  m_Layer: 0
+  m_Name: Wall (24)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4073626136065558934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3459559402094937276}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 2.96, y: 0, z: 17.683}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 150671336049549646}
+  - {fileID: 4605031703861201138}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!1001 &5766752857925526920
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4073626136065558934}
+    m_Modifications:
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6664828585907654269, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_Name
+      value: HH_Hospital_Wall_4x2m (79)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+--- !u!4 &150671336049549646 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+  m_PrefabInstance: {fileID: 5766752857925526920}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7924239727539031092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4073626136065558934}
+    m_Modifications:
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6664828585907654269, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+      propertyPath: m_Name
+      value: HH_Hospital_Wall_4x2m (80)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+--- !u!4 &4605031703861201138 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5913461484139021510, guid: f3af54cff7c35814a8fdb440fdf736a9, type: 3}
+  m_PrefabInstance: {fileID: 7924239727539031092}
+  m_PrefabAsset: {fileID: 0}
